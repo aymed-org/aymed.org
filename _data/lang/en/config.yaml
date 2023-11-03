@@ -1,0 +1,37 @@
+description: >-
+  Association of Graduates in Germany (AYMED) is seated in Istanbul.
+  AYMED The club was established in 1990 from a small group of initiatives,
+  which had studied in Germany, was founded.
+
+copyright_note: All rights reserved.
+
+footer_note: >-
+   The contents of this website belongs Association of Graduates in Germany (AYMED).
+   Despite careful control we assume no liability for the content of external links.
+
+links: Links
+social_media: Social Media
+
+404_message: Page not found. Please go back to Home Page.
+
+menu:
+  - title: Home Page
+    link: "/en/"
+  - title: Corporate
+    submenu:
+      - title: About Us
+        link: /en/corporate/about-us
+      - title: Tüzük
+        link: /tr/kurumsal/tuzuk
+      - title: Yönetim Kurulu
+        link: /tr/kurumsal/yonetim-kurulu
+      - title: Kurullar
+        link: /tr/kurumsal/kurullar
+  - title: Partners
+    link: "/en/partners"
+
+footer_menu:
+  - title: Press
+    link: "/en/press"
+  - title: Contact
+    link: "/en/Contact"

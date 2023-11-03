@@ -1,0 +1,54 @@
+description: >-
+  Almanya Yüksekokulları Mezunlar Derneği (AYMED) Derneği, merkezi İstanbul'da olup,
+  Almanya'da yüksek eğitim görerek Türkiye'ye dönen bir grup insiyatif sahibi mezun
+  tarafından 1991 yılında kurulmuştur.
+
+copyright_note: Her hakkı saklıdır.
+
+footer_note: >-
+  Bu site içinde yer alan içerik AYMED tarafından hazırlanmıştır. Gerekli kontroller
+  yapılmasına karşın dış bağlantıların içeriklerinden AYMED hiçbir şekilde sorumlu değildir.
+
+links: Bağlantılar
+social_media: Sosyal Medya
+
+404_message: Sayfa bulunamadı. Anasayfadan tekrar deneyiniz.
+
+menu:
+  - title: Anasayfa
+    link: "/tr/"
+  - title: Kurumsal
+    submenu:
+      - title: Hakkımızda
+        link: /tr/kurumsal/hakkimizda
+      - title: Tüzük
+        link: /tr/kurumsal/tuzuk
+      - title: Yönetim Kurulu
+        link: /tr/kurumsal/yonetim-kurulu
+      - title: Kurullar
+        link: /tr/kurumsal/kurullar
+  - title: Üyelik
+    link: "/tr/uyelik"
+  - title: İş Ortaklarımız
+    link: "/tr/is-ortaklarimiz"
+  - title: Haberler
+    link: "/tr/haberler"
+    submenu:
+      - title: AYMED'den
+        link: /tr/haberler/aymed-den
+      - title: Diğer Haberler
+        link: /tr/haberler/diger-haberler
+  - title: Etkinlikler
+    link: "/tr/etkinlikler"
+  - title: Projeler
+    link: "/tr/projeler"
+
+footer_menu:
+  - title: Basın
+    link: "/tr/basin"
+  - title: Duyurular
+    link: "/tr/duyurular"
+  - title: İletişim
+    link: "/tr/iletisim"
+  - title: KVKK Aydınlatma Metni
+    link: "/tr/kvkk-aydinlatma-metni"

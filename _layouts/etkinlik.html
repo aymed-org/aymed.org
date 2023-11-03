@@ -1,0 +1,22 @@
+{% include header.html %}
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <h5>{{ page.short_description }}</h5>
+
+                {{ page.date | date: "%Y-%m-%d"}}
+
+                {{ content }}
+
+                {% if page.image %}
+                <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}" style="max-width: 600px;" >
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+
+{% include footer.html %}

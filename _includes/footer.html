@@ -1,0 +1,51 @@
+<!-- ======= Footer ======= -->
+<footer id="footer">
+
+  <div class="d-flex justify-content-center py-4">
+    <div class="copyright">
+    <!-- <div class="row w-100">
+      <div class="col-lg-6 col-sm-6 mb-4 d-flex justify-content-center footer-links"> -->
+        {% for menu_item in site.data.lang[page.lang].config.footer_menu %}
+        <i class="bx bx-chevron-right"></i> <a href="{{ site.baseurl }}{{ menu_item.link }}">{{ menu_item.title }}</a>
+        {% endfor %}
+      <!-- </div>
+    </div> -->
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-center py-4 footer-social-links">
+    <div class="copyright">
+    <!-- <div class="row w-100">
+      <div class="col-lg-6 col-sm-6 mb-4 d-flex justify-content-center footer-social-links"> -->
+        {% for social_account in site.data.config.social %}
+          <a href="{{ social_account.link }}" class="{{ social_account.name }} mx-2" target="_blank"><i class="bi bi-{{ social_account.name }}"></i> {{ social_account.name }} </a>
+        {% endfor %}
+      <!-- </div>
+    </div> -->
+    </div>
+  </div>
+
+  <div class="py-4">
+    <div class="credits">
+      <div class="py-2">{{ site.data.lang[page.lang].config.footer_note }}</div>
+      <div class="py-2">{{ site.data.lang[page.lang].config.copyright_note }}
+      2006 -
+      <script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script>
+      © {{ site.short_name }}
+      </div>
+    </div>
+  </div>
+
+</footer> <!-- end footer -->
+
+
+    <!-- Core JS file -->
+    <script src="{{ site.baseurl }}/assets/plugins/glightbox/js/glightbox.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/aymed.org.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/index.js"></script>
+
+    </body>
+</html>

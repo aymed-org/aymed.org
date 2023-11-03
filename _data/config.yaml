@@ -1,0 +1,15 @@
+languages:
+  - name: Türkçe
+    code: tr
+  - name: Deutsch
+    code: de
+  - name: English
+    code: en
+
+social:
+  - name: twitter
+    link: https://twitter.com/aymed_tr
+  - name: facebook
+    link: https://www.facebook.com/AYMEDalumni
+  - name: instagram
+    link: https://www.instagram.com/aymedalumni

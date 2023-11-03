@@ -1,0 +1,45 @@
+description: >-
+  Verein der Hochschulabsolventen Deutschlands (AYMED) sitz ist in Istanbul.
+  Das Verein AYMED wurde im Jahre 1991 aus einer kleinen initiativen Gruppe,
+  die in Deutschland studiert hatten, gegründet.
+
+copyright_note: Alle Rechte vorbehalten.
+
+footer_note: >-
+   Die Inhalte dieser Website gehört Verein der Hochschulabsolventen Deutschlands (AYMED).
+   Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.
+
+links: Links
+social_media: Soziale Medien
+
+404_message: Seite nicht gefunden.
+
+menu:
+  - title: Startseite
+    link: "/de/"
+  - title: Über uns
+    submenu:
+      - title: Allgemeines
+        link: /de/ueber-uns/allgemeines
+      - title: Tüzük
+        link: /tr/kurumsal/tuzuk
+      - title: Yönetim Kurulu
+        link: /tr/kurumsal/yonetim-kurulu
+      - title: Kurullar
+        link: /tr/kurumsal/kurullar
+  - title: Mitgliedschaft
+    link: "/de/mitgliedschaft"
+  - title: Unsere Partner
+    link: "/de/unsere-partner"
+  - title: Aktuelles
+    link: "/de/aktuelles"
+  - title: Veranstaltungen
+    link: "/de/veranstaltungen"
+  - title: Projekte
+    link: "/de/projekte"
+
+footer_menu:
+  - title: Presse
+    link: "/de/presse"
+  - title: Kontakt
+    link: "/de/kontakt"
