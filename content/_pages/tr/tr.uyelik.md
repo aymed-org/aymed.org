@@ -13,7 +13,7 @@ AYMED derneğine üye olma şartları Tüzüğümüzde belirtilmiştir. Genel ol
 </p>
 
 Başvuru için:
-<a href="{{ site.baseurl }}/files/AYMED-UyeKayitFormu.doc">Üyelik Formu</a>
+<a href="{{ site.baseurl }}/assets/files/AYMED-UyeKayitFormu.doc">Üyelik Formu</a>
 
 <pre class="pt-4">
 AYMED

@@ -12,7 +12,7 @@ AYMED is a broad professional network for you. We propose to build bridges betwe
 And provide effective assistance, for example, when you start in the professional life in Turkey.
 </p>
 <p>
-If you want to join AYMED directly, you can use a recording application available <a href="{{ site.baseurl }}/files/AYMED-UyeKayitFormu.doc">for download</a>.
+If you want to join AYMED directly, you can use a recording application available <a href="{{ site.baseurl }}/assets/files/AYMED-UyeKayitFormu.doc">for download</a>.
 </p>
 <p>
 The form may be completed directly on your computer and e-mail will be sent to aymed@aymed.org  back. Obviously, it is also possible to request by mail or by fax to the AYMED be addressed.

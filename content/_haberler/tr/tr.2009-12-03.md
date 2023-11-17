@@ -21,7 +21,5 @@ Başarılı bir şekilde geçen "İş Sürekliliği Yönetimi" Seminerinin ardı
 Bir sivil toplum kuruluşu olarak AYMED hakkında da bilgi veren Onur, bundan sonra da güncel ve ilgi çekici konularda DAAD desteğinde Alumni-Seminerleri düzenlemeyi sürdüreceklerini ve böylece hem Almanya'daki hem de Türkiye'de değişik uzmanlık alanlarındaki kişileri, Alumni'leri bir araya getirerek iki ülke arasındaki yakınlaşma ve bilgi alış verişinde etkin bir rol almayı istediklerini, kişi ve kuruluşların birbirlerini tanıması ve iletişime geçerek yeni işbirlikleri oluşturulmasına vesile olmayı hedeflediklerini belirtti.
 </p>
 <p>
-Radyo programını (mp3) indirmek için <a href="{{ site.baseurl }}/files/AYMED-AcikRadyo.mp3" target="_blank">tıklayınız (49 MB)</a>.
+Radyo programını (mp3) indirmek için <a href="{{ site.baseurl }}/assets/files/AYMED-AcikRadyo.mp3" target="_blank">tıklayınız (49 MB)</a>.
 </p>
-
-

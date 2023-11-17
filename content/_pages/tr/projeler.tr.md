@@ -23,6 +23,7 @@ Hayat Boyu Öğrenme (LLP = Lifelong Learning Programme), ilk ve orta öğrenimd
 </div>
 
 Projeye katkımız:
+
 <p>
 AYMED üyelerinin profilinin değişik meslek gruplarında olması ve hem Türkiye hem de Almanyadaki eğitim sistemini, Alman Mesleki ve Teknik Eğitim Sistemi ile Avusturya Meslek ve Teknik Eğitim Sistemi arasındaki benzerlikler ve ortak dil ve kültür özelliklerini yakından tanımaları nedeniyle AYMED ile işbirliği kurulmuştur. AYMEDin aşağıdaki konularda projeye katıkıda bulunacağı ve bir sinerji sağlayacağı öngörülmüştür.
 </p>
@@ -46,5 +47,5 @@ Bu konuda destek alınacak konular;
 Almanya Yüksekokullarından Mezun olmuş (Alumni) kişilerin adreslerini güncelleme projemiz tüm Alumini'leri kapsayacak şekilde genişletilmiştir. Adres güncelleme projemiz DAAD tarafından desteklenmektedir.
 </p>
 <p>
-Mayıs ayında başlayan adres güncelleme projesi çalışmalarına şimdiye kadar 100'ün üzerinde arkadaşımızdan geri bildirim alınmıştır. Almanya'daki herhangi bir yükseköğrenim kurumundan mezun olmuş ya da Almanya'da burslu olarak okumuş arkadaşlarımız <a href="{{ site.baseurl }}/files/Fragebg_Verbleib_dt_432.doc" target="_blank">Adres Güncelleme Formu</a>'nu kullanarak güncel iletişim bilgilerini <a href="mailto:{{ site.email }}">{{ site.email }}</a> adresine gönderebilirler.
+Mayıs ayında başlayan adres güncelleme projesi çalışmalarına şimdiye kadar 100'ün üzerinde arkadaşımızdan geri bildirim alınmıştır. Almanya'daki herhangi bir yükseköğrenim kurumundan mezun olmuş ya da Almanya'da burslu olarak okumuş arkadaşlarımız <a href="{{ site.baseurl }}/assets/files/Fragebg_Verbleib_dt_432.doc" target="_blank">Adres Güncelleme Formu</a>'nu kullanarak güncel iletişim bilgilerini <a href="mailto:{{ site.email }}">{{ site.email }}</a> adresine gönderebilirler.
 </p>

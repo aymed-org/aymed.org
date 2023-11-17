@@ -6,9 +6,8 @@ date: 2014-11-27
 permalink: /tr/haberler/2014-11-27/AYMED-BWI Semineri 25-26 Kasım 2014 tarihlerinde İTÜ ve YTÜ gerçekleşti
 short_description: Öğrencilere ve akademisyenlere, Almanya'da öğrenim, Ar-Ge kurumları, özel ve resmi kurumlarda araştırma ve kariyer fırsatları hakkında bilgi verildi.
 images:
-    - /assets/images/haberler/ITU_25112014.jpg
-    - /assets/images/haberler/ITU_25112014_1.jpg
-
+  - /assets/images/haberler/ITU_25112014.jpg
+  - /assets/images/haberler/ITU_25112014_1.jpg
 ---
 
 <p>
@@ -19,5 +18,5 @@ images:
 Çoğunluğu son sınıf ve yüksek lisans öğrencileri olan katılımcılar Almanya'da öğrenim, Ar-Ge kurumları, özel ve resmi kurumlarda araştırma projeleri hakkında bilgilendirildiler. Özellikle Baden Württemberg eyaletinde faaliyet gösteren araştırma kurumları ve özel firmalar ilgi odağı oldu
 </p>
 <p>
-Radyo programını (mp3) indirmek için <a href="{{ site.baseurl }}/files/AYMED-AcikRadyo.mp3" target="_blank">tıklayınız (49 MB)</a>.
+Radyo programını (mp3) indirmek için <a href="{{ site.baseurl }}/assets/files/AYMED-AcikRadyo.mp3" target="_blank">tıklayınız (49 MB)</a>.
 </p>

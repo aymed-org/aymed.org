@@ -16,7 +16,7 @@ Ant Yayıncılık tarafından Ekim 2009'da yayın hayatına başlayan RİSKONOM�
 </p>
 
 <p>
-Seminerde işlenen konu başlıkları ve katılımcı kuruluşların yer aldığı haber sayfalarını görmek için lütfen <a href="{{ site.baseurl }}/files/Riskonomi-Kasim09.pdf">tıklayınız</a>.
+Seminerde işlenen konu başlıkları ve katılımcı kuruluşların yer aldığı haber sayfalarını görmek için lütfen <a href="{{ site.baseurl }}/assets/files/Riskonomi-Kasim09.pdf">tıklayınız</a>.
 </p>
 
 <hr>
